@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+out/
+restored/
+teacher_data/
+model.json
+*.user
